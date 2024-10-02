@@ -1,2 +1,2 @@
 # urlShortener
-URL shortener in Node
+URL shortener in Node and POSTMAN
